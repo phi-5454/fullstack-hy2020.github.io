@@ -321,7 +321,7 @@ Enfin, la branche d'arborescence de la variable <em>ul</em> est connectée à sa
 document.getElementById('notes').appendChild(ul)
 ```
 
-### Manipulation du l'objet document depuis la console
+### Manipulation de l'objet document depuis la console
 
 Le nœud le plus haut de l'arborescence DOM d'un document HTML est appelé l'objet <em>document</em>. Nous pouvons effectuer diverses opérations sur une page Web à l'aide de l'API DOM. Vous pouvez accéder à l'objet <em>document</em> en tapant <em>document</em> dans l'onglet Console :
 
